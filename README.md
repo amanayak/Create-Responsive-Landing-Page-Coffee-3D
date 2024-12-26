@@ -6,4 +6,4 @@ Beautiful landing page website Ui, using Html Css and JavaScript. It contains a 
 Don't forget to join the channel for more videos like this.
 [CodingGujarat](https://www.youtube.com/@CodingGujarat)
 
-![Responsive Sidebar Submenu](/preview.png)
+![Responsive Landing Page Coffee 3D](/preview.png)
